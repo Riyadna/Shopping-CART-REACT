@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Tomatoes",
+    "amount": 260,
+    "shop": "Fruit Stand",
+    "ftype": "Vegetable",
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+    "latest": false
+  },
+  {
+    "id": "2",
+    "name": "Bananas",
+    "amount": 150,
+    "shop": "Tropical Store",
+    "ftype": "Fruit",
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg",
+    "latest": true
+  },
+  {
+    "id": "3",
+    "name": "Broccoli",
+    "amount": 120,
+    "shop": "Green Grocer",
+    "ftype": "Vegetable",
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/0/03/Broccoli_and_cross_section_edit.jpg",
+    "latest": false
+  },
+  {
+    "id": "4",
+    "name": "Oranges",
+    "amount": 300,
+    "shop": "Citrus Market",
+    "ftype": "Fruit",
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg",
+    "latest": true
+  },
+  {
+    "id": "5",
+    "name": "Carrots",
+    "amount": 100,
+    "shop": "Veggie Mart",
+    "ftype": "Vegetable",
+    "pic": "https://as1.ftcdn.net/v2/jpg/01/88/50/62/1000_F_188506264_8MMq2BHoDlfoBYHDxiYsYn1KGKbGT38S.jpg",
+    "latest": false
+  },
+  {
+    "id": "6",
+    "name": "Apples",
+    "amount": 200,
+    "shop": "Orchard Store",
+    "ftype": "Fruit",
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+    "latest": true
+  },
+  {
+    "id": "7",
+    "name": "Potatoes",
+    "amount": 180,
+    "shop": "Root Veggie Shop",
+    "ftype": "Vegetable",
+    "pic": "https://as1.ftcdn.net/v2/jpg/08/30/82/48/1000_F_830824811_be1xJTBA4pjTXhG9FBF6eEXa3sHH1hR9.webp",
+    "latest": false
+  },
+  {
+    "id": "8",
+    "name": "Strawberries",
+    "amount": 320,
+    "shop": "Berry Farm",
+    "ftype": "Fruit",
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/2/29/PerfectStrawberry.jpg",
+    "latest": true
+  },
+  {
+    "id": "9",
+    "name": "Cucumbers",
+    "amount": 140,
+    "shop": "Green Grocer",
+    "ftype": "Vegetable",
+    "pic": "https://as2.ftcdn.net/v2/jpg/00/89/24/67/1000_F_89246716_XCTl37ZkTZAdft4pyjFQJUjCjEslaYsx.jpg",
+    "latest": false
+  },
+  {
+    "id": "10",
+    "name": "Blueberries",
+    "amount": 350,
+    "shop": "Berry Farm",
+    "ftype": "Fruit",
+    "pic": "https://as2.ftcdn.net/v2/jpg/04/34/85/73/1000_F_434857307_cVvG4c0SBClgHTDEkV4e3TXjm6ditHBM.jpg",
+    "latest": true
+  },
+  {
+    "id": "11",
+    "name": "Lettuce",
+    "amount": 90,
+    "shop": "Veggie Mart",
+    "ftype": "Vegetable",
+    "pic": "https://as2.ftcdn.net/v2/jpg/05/37/69/13/1000_F_537691314_UlcCrqDV0MhiGXNts6rRfji9zYyedzKG.webp",
+    "latest": false
+  },
+  {
+    "id": "12",
+    "name": "Peaches",
+    "amount": 280,
+    "shop": "Orchard Store",
+    "ftype": "Fruit",
+    "pic": "https://as1.ftcdn.net/v2/jpg/00/54/71/16/1000_F_54711699_Ll0qhI3StixtQmMDoOxkWi6TgRpkXnFi.jpg",
+    "latest": true
+  },
+  {
+    "id": "13",
+    "name": "Peppers",
+    "amount": 200,
+    "shop": "Spice Market",
+    "ftype": "Vegetable",
+    "pic": "https://as1.ftcdn.net/v2/jpg/08/74/87/00/1000_F_874870048_Fi0Z3urqUhHsbrqdRpLQ1JTm51qhjUyH.jpg",
+    "latest": false
+  },
+  {
+    "id": "14",
+    "name": "Mangoes",
+    "amount": 400,
+    "shop": "Tropical Store",
+    "ftype": "Fruit",
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg",
+    "latest": true
+  },
+  {
+    "id": "15",
+    "name": "Onions",
+    "amount": 150,
+    "shop": "Root Veggie Shop",
+    "ftype": "Vegetable",
+    "pic": "https://as1.ftcdn.net/v2/jpg/01/78/81/46/1000_F_178814653_Hyf3BjFqIzlzrmzY989xEp54RBr0EFzM.jpg",
+    "latest": false
+  },
+  {
+    "id": "16",
+    "name": "Grapes",
+    "amount": 320,
+    "shop": "Vineyard Store",
+    "ftype": "Fruit",
+    "pic": "https://as1.ftcdn.net/v2/jpg/01/56/26/38/1000_F_156263893_NjL8agp6JEoPIHijmBpL1TJgdarmQeve.jpg",
+    "latest": true
+  },
+  {
+    "id": "17",
+    "name": "Zucchini",
+    "amount": 110,
+    "shop": "Green Grocer",
+    "ftype": "Vegetable",
+    "pic": "https://as2.ftcdn.net/v2/jpg/02/83/34/71/1000_F_283347152_KFosjjQoQNt1k3wdgPlJkVNRvGhiabdk.jpg",
+    "latest": false
+  },
+  {
+    "id": "18",
+    "name": "Pineapple",
+    "amount": 350,
+    "shop": "Tropical Store",
+    "ftype": "Fruit",
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Pineapple_and_cross_section.jpg",
+    "latest": true
+  },
+  {
+    "id": "19",
+    "name": "Garlic",
+    "amount": 130,
+    "shop": "Spice Market",
+    "ftype": "Vegetable",
+    "pic": "https://as1.ftcdn.net/v2/jpg/02/16/22/86/1000_F_216228631_5dyDk4KXEuHWNPQ7ZrDcArpzg1OtOyrK.jpg",
+    "latest": false
+  },
+  {
+    "id": "20",
+    "name": "Cherries",
+    "amount": 380,
+    "shop": "Orchard Store",
+    "ftype": "Fruit",
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cherry_Stella444.jpg",
+    "latest": true
+  }
+]
