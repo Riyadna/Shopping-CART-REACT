@@ -41,9 +41,13 @@
 }
 
 .details button:hover {
-    background-color: rgb(3, 94, 94);
+    background-color: rgb(3, 80, 80);
 }
 
 .removeBtn{
     background-color: rgb(249, 34, 34) !important;
+}
+
+.removeBtn:hover{
+    background-color: rgb(185, 15, 15) !important;
 }
